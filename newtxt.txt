@@ -1,1 +1,7 @@
 this is my first git test
+
+
+git add newtxt.txt --> adding files
+git status--> check the status wheather the file added or not
+git commit -m "Desc of checkin" fileName --> to commit the checkin file
+git push -m origin master--> final step to display ur code in github
